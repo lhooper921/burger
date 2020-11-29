@@ -23,6 +23,14 @@ This is an app created to track burgers that the user would like to eat and thos
 
 https://boiling-chamber-18869.herokuapp.com/
 
+## Run App Locally
+
+1. Clone the repo
+2. Start your mySQL server on port: 3306
+3. `npm install`in the console to install dependencies
+4. Run `node server.js` to open application through the link displayed in the console.
+
+
 
 ## License
 
